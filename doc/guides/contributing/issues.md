@@ -23,6 +23,8 @@ contribute:
    often, by opening a Pull Request that changes some bit of something in
    `nodejs/node` in a concrete and reviewable manner.
 
+If you don't know what issues to look at, you can [subscribe to nodejs/node on CodeTriage](https://www.codetriage.com). The service will send you issues in your email that you can help to triage. If you get busy, it backs-off so you don't get overwhelmed.
+
 ## Asking for General Help
 
 Because the level of activity in the `nodejs/node` repository is so high,
